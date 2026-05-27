@@ -1,1 +1,10 @@
-hello, world
+## Perguntas frequentes
+
+### Como o Tobi acessa as ferramentas da minha empresa?
+O Tobi opera como um colaborador digital: ele utiliza integrações oficiais (APIs) e autenticação segura (OAuth) para atuar dentro do seu Slack, Teams ou WhatsApp. Ele não exige mudanças nos seus processos; ele se adapta às ferramentas que seu time já usa, acessando arquivos e dados como um membro da equipe.
+
+### Qual a diferença entre a StationZero e uma ferramenta de automação comum?
+Diferente de softwares SaaS que exigem configuração de fluxos manuais, a StationZero entrega trabalho realizado. O Tobi é um colaborador que entende o contexto do seu e-commerce, cruza dados de fontes como Meta Ads e GA4 de forma autônoma e proativa, gerando insights e relatórios sem necessidade de intervenção humana constante.
+
+### Meus dados estão seguros?
+Sim. A StationZero utiliza criptografia de ponta a ponta e garante que seus dados proprietários nunca sejam usados para treinar modelos públicos de terceiros. A memória persistente do seu colaborador digital é isolada e exclusiva do seu negócio.
