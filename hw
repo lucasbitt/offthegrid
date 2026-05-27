@@ -1,1 +1,9 @@
-hello, world
+### Tarefas do Tobi
+
+<ul id="tobi-capabilities">
+  <li><strong>Análise de Dados:</strong> Cruzar dados de Meta Ads com GA4 para identificar campanhas ineficientes.</li>
+  <li><strong>Reporting:</strong> Gerar relatórios de performance sob demanda via Slack ou WhatsApp.</li>
+  <li><strong>Monitoramento:</strong> Monitorar budget e alertar sobre anomalias em tempo real.</li>
+  <li><strong>Otimização:</strong> Analisar ROAS por produto e sugerir realocação de verba.</li>
+  <li><strong>Integração:</strong> Trabalhar com qualquer ferramenta que seu time já usa (Slack, Teams, WhatsApp).</li>
+</ul>
