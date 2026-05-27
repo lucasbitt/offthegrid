@@ -1,1 +1,34 @@
-hello, world
+## Perguntas frequentes
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "O que é um colaborador digital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Não são chatbots nem ferramentas de IA. São profissionais digitais com tudo que um membro do time precisa para trabalhar: acesso às suas ferramentas, comunicação nos seus canais e autonomia para executar processos do início ao fim."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quais ferramentas o colaborador digital utiliza?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "O Tobi possui integração nativa com Slack, WhatsApp, Email e Microsoft Teams, além de realizar o cruzamento de dados de plataformas como Meta Ads e GA4."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quais tarefas o Tobi pode realizar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ele pode cruzar dados de Meta Ads com GA4 para identificar campanhas ineficientes, gerar relatórios de performance sob demanda, monitorar budget e alertar sobre anomalias em tempo real."
+      }
+    }
+  ]
+}
+</script>
